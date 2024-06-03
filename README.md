@@ -34,3 +34,5 @@
 ここで`a`と`b`は実数でありiは虚数単位である．この記号``[[a,b]]``は実数部`a`と虚数部`b`を持つ複素数を作る記号である．
 
 ではさっそくテーブルについて，クォータニオンを賞味しよう．
+
+[ベクトル・複素数・クオータニオン](https://github.com/kanaya/vector-complex-quaternion/kanaya-handai-quaternion.pdf)
