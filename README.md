@@ -35,4 +35,4 @@
 
 ではさっそくテーブルについて，クォータニオンを賞味しよう．
 
-[ベクトル・複素数・クオータニオン](https://github.com/kanaya/vector-complex-quaternion/kanaya-handai-quaternion.pdf)
+[ベクトル・複素数・クオータニオン](https://github.com/kanaya/vector-complex-quaternion/blob/main/kanaya-handai-quaternion.pdf)
